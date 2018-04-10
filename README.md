@@ -1,0 +1,2 @@
+# KotlinForStatement
+for文
